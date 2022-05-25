@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman';
+    background-image: url("background.png");
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 250vw; 
+}
+
+.content{
+    font-weight: bold;
+    font-size: 5.5vw;
+
+    color: 57b76d;
+    width: fit-content;
+    position: absolute;
+    top: 67vw;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.static1{
+    color: black;
+    font-size: 4.5vw;
+
+    position: absolute;
+    top: 163vw;
+    left: 23vw;
+}
+.static2{
+    color: black;
+    font-size: 4.5vw;
+
+    position: absolute;
+    top: 171.5vw;
+    left: 23vw;
+}
+
+.static3{
+    color: black;
+    font-size: 4.5vw;
+
+    position: absolute;
+    top: 180vw;
+    left: 23vw;
+}
